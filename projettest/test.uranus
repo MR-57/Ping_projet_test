@@ -1,0 +1,14 @@
+[
+{
+    "cell_type": "code",
+    "execution_count": 0,
+    "outputs": [],
+    "source": "%matplotlib inline\nfrom matplotlib import pyplot as plt\n\nx = [1, 2, 3, 4, 5]\ny = [1, 4, 9, 16, 25]\n\nprint('hello world')\n\nplt.plot(x, y)\n\nplt.show()\n\nnp.array(x) + np.array(y)"
+},
+{
+    "cell_type": "code",
+    "execution_count": 0,
+    "outputs": [],
+    "source": "%matplotlib inline\nfrom matplotlib import pyplot as plt\n\nx = [1, 2, 3, 4, 5]\ny = [1, 4, 9, 16, 25]\n\nprint('hello world')\n\nplt.plot(x, y)\n\nplt.show()\n\nnp.array(x) + np.array(y)"
+}
+]
